@@ -28,6 +28,13 @@ module.exports = {
 				...nahidPrettierConfig
 			}
 		],
-		'declaration-colon-space-after': 'always-single-line'
+		'declaration-colon-space-after': 'always-single-line',
+		'max-nesting-depth': null,
+		'selector-no-qualifying-type': [
+			true,
+			{
+				'ignore': [ 'attribute' ]
+			}
+		]
 	}
 };
