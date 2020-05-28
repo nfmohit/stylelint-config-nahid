@@ -38,6 +38,7 @@ module.exports = {
 					'class'
 				]
 			}
-		]
+		],
+		'no-descending-specificity': null
 	}
 };
