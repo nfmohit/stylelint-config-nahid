@@ -1,6 +1,6 @@
 {
 	"name": "stylelint-config-nahid",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Nahid's preferred Stylelint config.",
 	"main": "index.js",
 	"prettier": "prettier-config-nahid",
