@@ -33,7 +33,10 @@ module.exports = {
 		'selector-no-qualifying-type': [
 			true,
 			{
-				'ignore': [ 'attribute' ]
+				'ignore': [
+					'attribute',
+					'class'
+				]
 			}
 		]
 	}
