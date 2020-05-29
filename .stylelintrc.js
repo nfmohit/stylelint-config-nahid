@@ -48,6 +48,7 @@ module.exports = {
 					'appearance'
 				]
 			}
-		]
+		],
+		'function-parentheses-space-inside': 'always'
 	}
 };
